@@ -1,0 +1,28 @@
+.task {
+    display: block;
+    background-color: #b0fff7;
+    width: 400px;
+    height: 460px;
+    margin-left: 20px;
+    font-size: large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.text {
+    width: 100%;
+    height: 200px;
+}
+.solveButton {
+    display: block;
+    margin: 20px 0 20px 0;      
+} 
+.result {
+    display: flex;
+    justify-content:flex-start;
+    gap: 15px;
+    font-size: larger;
+
+
+}   
